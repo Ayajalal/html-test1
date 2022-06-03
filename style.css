@@ -1,0 +1,65 @@
+.con div{
+float: left;
+}
+body{
+    text-align: center;
+    margin: 0;
+   
+}
+header{
+    color: white;
+    padding: 30px;
+    background-color: rgb(200, 120, 120);
+}
+footer{
+    color: white;
+    padding: 30px;
+    background-color: rgb(200, 120, 120);
+    position: fixed;
+   bottom:0;
+   width:100%;
+    
+}
+a .img{
+    width: 30%;
+    height: 200 px;
+}
+img{
+    border-radius: 20px;
+   height: 20%;
+    width: 30%;
+ 
+}    
+
+
+main{
+    display: block;
+    background-color: rgb(200, 120, 120);
+    border-radius: 10px;
+    width: 70%;
+  
+    float: right;
+
+}
+nav{
+    background-color: rgb(200, 120, 120);
+    width: 25%;
+   
+   padding: 10px;
+    border-radius: 10px;
+}
+a{
+    display: block;
+    padding: 10 px;
+}
+
+div .nav{
+background-color: rgb(200, 120, 120);
+    width: 20%;
+height: 20%;
+}
+div .main{
+background-color: rgb(200, 120, 120);
+width: 70%;
+height: 20%;
+}
